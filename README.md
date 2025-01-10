@@ -1,4 +1,4 @@
-# Data Managment Plan (DMP) for the PhD project "Designing foundational strategies for developing a family of food systems sustainability ontologies"
+# Data Managment Plan (DMP) - PhD project "Designing foundational strategies for developing a family of food systems sustainability ontologies"
 
 ## Description
 
