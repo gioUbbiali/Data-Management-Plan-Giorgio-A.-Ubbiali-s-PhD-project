@@ -4,14 +4,14 @@
 
 A Data Management Plan (DMP) is a document detailing the approaches implemented to organize, license, distribute, and preserve data gathered and generated within a project. 
 
-This DMP regards the PhD project “Designing foundational strategies for developing a family of food systems sustainability ontologies”. This project aims to establish strategies to support the development of consistent and reliable ontologies addressing food, food systems, and sustainability.
+This DMP regards the [PhD project “Designing foundational strategies for developing a family of food systems sustainability ontologies”](https://air.unimi.it/handle/2434/1161515). This project aims to establish strategies to support the development of consistent and reliable ontologies addressing food, food systems, and sustainability.
 
 This DMP is an outcome of the class “Progetto sui Research Data Management Plan (DMP)” organized by the [UNIMI office “Direzione Performance, Assicurazione, Qualità, Valutazione e Politiche di Open Science”.](https://www.unimi.it/it/ugov/ou-structure/direzione-performance-assicurazione-qualita-valutazione-e-politiche-di-open-science) 
 
 
 ## Material
 
-Currently, this repository hosts the DMP of the PhD project “Designing foundational strategies for developing a family of food systems sustainability ontologies”.
+Currently, this repository hosts the DMP of the [PhD project “Designing foundational strategies for developing a family of food systems sustainability ontologies”](https://air.unimi.it/handle/2434/1161515).
 
 The DMP is available in docx and PDF formats.
 
